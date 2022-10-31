@@ -1,1 +1,1 @@
-## Type a program that will display your last name, first name and view the results of its work.
+## Type a program which will display your last and first name.
