@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include <math.h>
-using namespace std;
+using namespace std;//to avoid writing std:: every time 
 int main()
 {
 	double m1, m2, r, F;
