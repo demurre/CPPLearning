@@ -13,7 +13,7 @@
 ### Increment; 
 ### Relationship operations: ==, <=, <, >, >=, !=; 
 ### Display the results of operations on the screen; 
-## 4. Create a pointer to the pointer and display on the screen
+## 4. Create a pointer to the pointer and display on the screen:
 ### Address in the OP of this pointer;
 ### The value of this pointer;
 ## 5. Create an undefined pointer and use it to point to any of the previously declared variables. Display the value of this pointer on the screen.
