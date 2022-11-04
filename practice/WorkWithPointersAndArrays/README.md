@@ -1,0 +1,1 @@
+## Given an array of integers. Using the pointers, it will change the values ​​of the elements of the array with indices in order (that is, the first element of the array becomes the last, the second - the penultimate, etc.)
