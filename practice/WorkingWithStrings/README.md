@@ -1,0 +1,1 @@
+## A sequence of string characters is entered from the keyboard. After entering each character, the program should prompt "More" Y / N? " and wait for the user's response. Count the number of entered characters.
