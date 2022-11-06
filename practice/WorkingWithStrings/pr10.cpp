@@ -1,17 +1,17 @@
-﻿#include <iostream>
+#include <iostream>
 using namespace std;
 int main() {
-    cout << "Enter any symbol: ";
+    cout << "Enter any character: ";
     string s;
     char y = 'Y';
     while (toupper(y) == 'Y') {
         cin >> y;
         s += y;
-        cout << "Ще? Y/N ";
+        cout << "More? Y/N ";
         cin >> y;
         if (toupper(y) == 'Y') {
-            cout << "Enter the next symbol: ";
+            cout << "Enter the next character: ";
         }
     }
-    cout << "Number of symbols entered: " << s.size();
+    cout << "Number of characters entered: " << s.size();
 }
