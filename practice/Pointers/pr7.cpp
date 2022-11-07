@@ -8,7 +8,6 @@ string booltostring (bool x) {//function to convert a machine value to a literal
 	return "false";
 }
 int main() {
-	setlocale(LC_ALL, "");
 	unsigned int x = 1, y = 4, a = 7, b = 3, c = 2, d = 0;
 	unsigned int *xp = &x, *yp = &y;
 	cout << "Size x, y, a, b, c, d: " << sizeof(x) << ", " << sizeof(y) << ", " << sizeof(a) << ", " << sizeof(b) << ", " << sizeof(c) << ", " << sizeof(d) << endl
