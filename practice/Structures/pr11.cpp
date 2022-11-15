@@ -29,9 +29,7 @@ int main() {
 	cout << "Enter the data " << endl;
 	char answer = 'Y';
 	while (toupper(answer) == 'Y') {
-		if (toupper(answer) == 'Y') {
-			list.push_back(pass.data());//add an instance of the class to the end of the vector
-		}
+		list.push_back(pass.data());//add an instance of the class to the end of the vector
 		cout << "Next? Y/N ";
 		cin >> answer;
 	}
