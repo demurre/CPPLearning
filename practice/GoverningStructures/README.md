@@ -1,6 +1,8 @@
-Task: ![Screenshot_2](https://user-images.githubusercontent.com/117121382/199118450-2fc8284e-670c-45a8-bece-47d4f4c56913.png)
+## Task: 
 
-Result: 
+![Screenshot_2](https://user-images.githubusercontent.com/117121382/199118450-2fc8284e-670c-45a8-bece-47d4f4c56913.png)
+
+## Result: 
 
 1)![3(1)](https://github.com/demurre/CPPLearning/assets/117121382/742b086d-a3bf-486a-96cd-020e09a33f6b)
 
