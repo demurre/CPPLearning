@@ -2,5 +2,6 @@
 > I used for and while
 
 Result: 
+
 ![4](https://github.com/demurre/CPPLearning/assets/117121382/49dd92f8-ff0e-4424-8bb9-1fe02468d627)
 
