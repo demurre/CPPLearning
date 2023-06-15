@@ -1,4 +1,4 @@
-## 1. Using the guidelines, develop a C++ program that contains 6 variables of the same type and 2 pointers to any of these variables.
+## Task: 1. Using the guidelines, develop a C++ program that contains 6 variables of the same type and 2 pointers to any of these variables.
 ## 2. Display on the screen: 
 ### The size (number of bytes) allocated for variables and pointers;
 ### Values of variables; 
@@ -17,3 +17,7 @@
 ### Address in the OP of this pointer;
 ### The value of this pointer;
 ## 5. Create an undefined pointer and use it to point to any of the previously declared variables. Display the value of this pointer on the screen.
+
+Result:
+
+![7](https://github.com/demurre/CPPLearning/assets/117121382/88e9ad4c-8730-4357-addb-b1db82201585)
