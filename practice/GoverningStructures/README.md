@@ -5,7 +5,6 @@
 ## Result: 
 
 1)
-
 ![3(1)](https://github.com/demurre/CPPLearning/assets/117121382/742b086d-a3bf-486a-96cd-020e09a33f6b)
 
 2)
