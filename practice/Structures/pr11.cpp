@@ -4,7 +4,7 @@ using namespace std;
 class Person {
 public:
 	string sname; string name;
-	int vyear; int vday; int vmonth; int day; int month; int year; 
+	int vyear; int vday; int vmonth; int day; int month; int year;
 	int sp; int np; string p; string i; string pb;
 	Person data() {//a function in which we record data about people
 		Person datas;
@@ -19,7 +19,7 @@ public:
 		cout << "Issue date: ";
 		cin >> datas.vday >> datas.vmonth >> datas.vyear;
 		cout << "Issued by: ";
-		cin >> datas.p >> datas.i >> datas.pb;
+		cin >> datas.p >> datas.i;
 		return datas;
 	};
 };
@@ -34,7 +34,7 @@ int main() {
 		cin >> answer;
 	}
 	cout << "List of people who need to replace the photo ";
-	for (Person e: list) {//e-element of the vector
+	for (Person e : list) {//e-element of the vector
 		if (2022 - e.vyear >= 10) {
 			cout << endl << e.sname << " " << e.name << endl;
 		}
