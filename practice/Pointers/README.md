@@ -18,6 +18,6 @@
 ### The value of this pointer;
 ## 5. Create an undefined pointer and use it to point to any of the previously declared variables. Display the value of this pointer on the screen.
 
-Result:
+##Result:
 
 ![7](https://github.com/demurre/CPPLearning/assets/117121382/88e9ad4c-8730-4357-addb-b1db82201585)
