@@ -1,14 +1,14 @@
 Add throw errors to the lab 4 and save the articles to the folder
 Result:
 
-![r1](https://github.com/demurre/JavaPractice/assets/117121382/6d3a2dd8-a2bc-4724-9da1-a96a618305bd)
+![1j](https://github.com/user-attachments/assets/ae2816a2-2dbf-4bb5-a724-1fdf086c5c39)
 
-![r2](https://github.com/demurre/JavaPractice/assets/117121382/8cb30e9b-0e01-4bdc-ad33-07fca32dd9f4)
+![2j](https://github.com/user-attachments/assets/c1bbce44-9794-482f-8774-5655ed7f7e2d)
 
-![r3](https://github.com/demurre/JavaPractice/assets/117121382/0509b87b-83e4-4e0d-8fe9-3ce71cade48b)
+![3j](https://github.com/user-attachments/assets/f551efec-96c0-4f56-a814-4f2d58571dc0)
 
-![r4](https://github.com/demurre/JavaPractice/assets/117121382/53355837-ce15-4b3f-ad62-078ac2e3f3e2)
+![4j](https://github.com/user-attachments/assets/12020e49-273c-439e-b33e-cfe2131b6a74)
 
-![r5](https://github.com/demurre/JavaPractice/assets/117121382/c708ba57-6ff0-4c04-9936-0de10f9a80e3)
+![5j](https://github.com/user-attachments/assets/d3ee57e2-3039-4477-a2f3-23d42389bf91)
 
-![r6](https://github.com/demurre/JavaPractice/assets/117121382/22fba1eb-3792-483e-9328-0dda2db4d8d1)
+![6j](https://github.com/user-attachments/assets/85a7e950-4c5e-4723-87c6-9030fd6cf410)

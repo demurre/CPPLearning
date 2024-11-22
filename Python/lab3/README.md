@@ -1,3 +1,3 @@
 Kohonen neural network
 
-![image](https://github.com/user-attachments/assets/715a9e77-269b-47dc-8fde-29a8615b17b7)
+![koho](https://github.com/user-attachments/assets/fe4a7aac-f74f-49da-b5e7-224042b29221)
